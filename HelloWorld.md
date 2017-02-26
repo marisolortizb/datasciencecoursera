@@ -1,6 +1,6 @@
 ## This is a markdown file
 
-All this is a test for my Data Science course
+This is a test for my Data Science course
 
 * John Hopkins University
 * Coursera plattform
