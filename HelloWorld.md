@@ -3,5 +3,5 @@
 This is a test for my Data Science course
 
 * John Hopkins University
-* Coursera plattform
+* Coursera platform
 * Marisol Ortiz
